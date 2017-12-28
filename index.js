@@ -25,8 +25,7 @@ const convertToSimplifiedChinese = (cc) => {
 	var ss = JTPYStr();
 	var tt = FTPYStr();
 
-	for (var i = 0; i < cc.length; i++)
-	{
+	for (var i = 0; i < cc.length; i++) {
 		if(cc.charCodeAt(i) > 10000 && tt.indexOf(cc.charAt(i)) != -1)
 			str += ss.charAt(tt.indexOf(cc.charAt(i)));
   		else 
