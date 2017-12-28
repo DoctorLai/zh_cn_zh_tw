@@ -1,5 +1,5 @@
 var convertor = require('zh_cn_zh_tw');
-var zh_cn = converter.convertToSimplifiedChinese;
-var zh_tw = converter.convertToTraditionalChinese;
-console.log(zh_cn("‰ô")); // convert to ÃÎ
-console.log(zh_tw("ÃÎ")); // convert to ‰ô
+var zh_cn = convertor.convertToSimplifiedChinese;
+var zh_tw = convertor.convertToTraditionalChinese;
+console.log(zh_cn("å¤¢")); // convert to æ¢¦
+console.log(zh_tw("æ¢¦")); // convert to å¤¢

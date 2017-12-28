@@ -32,5 +32,5 @@ npm test
     * Email: dr.zhihua.lai@gmail.com    
 
 ## Release Notes
-* 1.0.2 Bug Fixes
+* 1.0.4 Bug Fixes and Updates
 * 1.0.0 Initial Release
