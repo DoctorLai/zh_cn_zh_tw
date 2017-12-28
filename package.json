@@ -1,6 +1,6 @@
 {
   "name": "zh_cn_zh_tw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJs Library to convert between Simplified Chinese (zh-cn) and Traditional Chinese (zh-tw)",
   "main": "index.js",
   "scripts": {
@@ -34,6 +34,6 @@
     {
       "type": "MIT",
       "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
-    }  
+    }
   ]
 }
