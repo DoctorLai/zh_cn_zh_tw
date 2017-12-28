@@ -36,5 +36,6 @@ const convertToSimplifiedChinese = (cc) => {
 }
 
 module.exports = {
-	convertToSimplifiedChinese, convertToTraditionalChinese
+	convertToSimplifiedChinese, 
+	convertToTraditionalChinese
 }
