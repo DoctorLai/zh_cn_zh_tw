@@ -4,7 +4,7 @@
   "description": "NodeJs Library to convert between Simplified Chinese (zh-cn) and Traditional Chinese (zh-tw)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,16 @@
   "bugs": {
     "url": "https://github.com/DoctorLai/zh_cn_zh_tw/issues"
   },
-  "homepage": "https://github.com/DoctorLai/zh_cn_zh_tw#readme"
+  "homepage": "https://github.com/DoctorLai/zh_cn_zh_tw#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }  
+  ]
 }
