@@ -1,0 +1,28 @@
+{
+  "name": "zh_cn_zh_tw",
+  "version": "1.0.0",
+  "description": "NodeJs Library to convert between Simplified Chinese (zh-cn) and Traditional Chinese (zh-tw)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoctorLai/zh_cn_zh_tw.git"
+  },
+  "keywords": [
+    "chinese",
+    "simplified",
+    "chinese",
+    "traditional",
+    "chinese",
+    "zh-cn",
+    "zh-tw"
+  ],
+  "author": "justyy <dr.zhihua.lai@gmail.com> (https://helloacm.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DoctorLai/zh_cn_zh_tw/issues"
+  },
+  "homepage": "https://github.com/DoctorLai/zh_cn_zh_tw#readme"
+}
