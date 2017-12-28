@@ -22,7 +22,7 @@ npm test
 ```
 
 ## Contributing
-- [@justyy](https://steemit.com/@justyy), Blog: [helloacm](https://helloacm.com), Blog: [codingforspeed](https://codingforspeed.com), Blog[justyy](https://justyy.com)
+- [@justyy](https://steemit.com/@justyy), Blog: [helloacm](https://helloacm.com), Blog: [codingforspeed](https://codingforspeed.com), Blog: [justyy](https://justyy.com)
 
 ## Release Notes
 * 1.0.0 Initial Release
