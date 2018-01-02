@@ -14,10 +14,10 @@ describe('zh_cn', function() {
 
 describe('zh_tw', function() {
   it('converts 梦', function() {
-    zh_cn('梦').should.equal('夢');
+    zh_tw('梦').should.equal('夢');
   });
   it('converts 夢', function() {
-    zh_cn('夢').should.equal('夢');
+    zh_tw('夢').should.equal('夢');
   });  
 });
 
