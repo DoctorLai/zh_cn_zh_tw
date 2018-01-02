@@ -1,6 +1,6 @@
 {
   "name": "zh_cn_zh_tw",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "NodeJs Library to convert between Simplified Chinese (zh-cn) and Traditional Chinese (zh-tw)",
   "main": "index.js",
   "scripts": {
