@@ -22,15 +22,25 @@ npm test
 ```
 
 ## Contributing
-* [@justyy](https://steemit.com/@justyy), 
+1. Fork it!
+2. Create your feature branch: git checkout -b my-new-feature
+3. Commit your changes: git commit -am 'Add some feature'
+4. Push to the branch: git push origin my-new-feature
+5. Submit a pull request :D
+
+## Author
+* freespace © justyy, Released under the [MIT License](http://spdx.org/licenses/MIT.html).
+* Authored and maintained by [@justyy](https://steemit.com/@justyy) with help from contributors ([list](https://www.npmjs.com/package/zh_cn_zh_tw/access)).
+    * Email: dr.zhihua.lai@gmail.com
+    * Github: [github.com/doctorlai](https://github.com/doctorlai)
+    * Twitter: [doctorzlai](https://twitter.com/doctorzlai)
     * Blog: [helloacm](https://helloacm.com)
     * Blog: [codingforspeed](https://codingforspeed.com)
     * Blog: [justyy](https://justyy.com)
-    * Chrome Extension: [Simplified and Traditional](https://chrome.google.com/webstore/detail/olpihmabpjpllgmahlgiakkgaccigpfo)
     * Others: [weibomiaopai](https://weibomiaopai.com)
     * Others: [rot47](https://rot47.net)
-    * Email: dr.zhihua.lai@gmail.com    
-
-## Release Notes
-* 1.0.4 Bug Fixes and Updates
-* 1.0.0 Initial Release
+    * Others: [uploadbeta](https://uploadbeta.com)
+    * Others: [isvbscriptdead](https://isvbscriptdead.com)
+    * Others: [happyukgo](https://happyukgo.com)
+    * Others: [propagationtools](https://propagationtools.com)
+    * Others: [steakovercooked](https://steakovercooked.com)
